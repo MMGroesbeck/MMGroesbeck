@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently getting ready for my first position in a challenging branch of software development I hadn't even been aware of.
+- 🔭 I build reality-analysis and construction and building management software with Avvir.
 - 🌱 I’m currently learning Java, among other things.
 - 👯 I’m looking to collaborate on anything tricky and creative.
 - 💬 Ask me about the intersections between coding and semiotics.
